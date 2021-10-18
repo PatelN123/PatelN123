@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nayan Patel
 - 👀 I’m interested in Coding, Designing and websites
 - 🌱 I’m currently learning Support Services
-- 📫 How to reach me: naypat20051@gmail.com
+- 📫 How to reach me: hello@nayanpatel.net
