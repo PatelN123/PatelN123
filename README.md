@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Nayan Patel! </h1>
 
-<h3> Currently working on: **Sivu** </h3>
+<h3> Currently working on: Sivu </h3>
 
 <p align="center" width="150px">I am a motivated individual with a keen interest in the technical field, with a keen interest in technology from a very early age and the interest has only got greater.</p>
 
